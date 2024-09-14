@@ -1,0 +1,11 @@
+.sabaka {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    margin: 52px; /* add 10px gap between blocks */
+    padding: 20px; /* add 20px padding to each block */
+    width: 18rem; /* adjust the width as needed */
+  }
